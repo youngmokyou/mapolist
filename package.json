@@ -1,0 +1,11 @@
+{
+  "name": "mapolist",
+  "version": "1.0.0",
+  "description": "게시판웹_mysql, nodejs활용",
+  "main": "index.js",
+  "scripts": {
+    "test": "]"
+  },
+  "author": "mokyou",
+  "license": "ISC"
+}
